@@ -1,0 +1,25 @@
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\Quiz A1.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\Quiz A1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\App.g.cs
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\Quiz A1_MarkupCompile.cache
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\bin\Debug\Quiz A1.exe.config
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\bin\Debug\Quiz A1.exe
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\bin\Debug\Quiz A1.pdb
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\MainWindow.g.cs
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\Quiz A1_MarkupCompile.lref
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\MainWindow.baml
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\Quiz A1.g.resources
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\Quiz_A1.Properties.Resources.resources
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\Quiz A1.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\Quiz A1.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\Quiz A1.exe
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\Quiz A1.pdb
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\View\CreateView.g.cs
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\View\CreateView.baml
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\View\SolveView.g.cs
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\View\SolveView.baml
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\View\MenuView.g.cs
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\View\MenuView.baml
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\View\NameView.g.cs
+C:\Users\Home\source\repos\Quiz A1\Quiz A1\obj\Debug\View\NameView.baml
